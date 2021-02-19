@@ -110,7 +110,6 @@ sections:
     background_image_opacity: 10
   - type: grid_section
     title: Partners
-    subtitle: 2021 Supporters
     align: center
     grid_items:
       - image: images/logo-1.svg
