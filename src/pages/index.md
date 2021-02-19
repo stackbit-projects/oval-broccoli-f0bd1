@@ -186,7 +186,6 @@ sections:
     background_image_opacity: 98
 seo:
   title: The RocketCast
-  description: The preview of the Podcaster theme
   extra:
     - name: 'og:type'
       value: website
