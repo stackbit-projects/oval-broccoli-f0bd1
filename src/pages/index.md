@@ -191,7 +191,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Podcaster Theme
+      value: Find candles n
       keyName: property
     - name: 'og:description'
       value: The preview of the Podcaster theme
