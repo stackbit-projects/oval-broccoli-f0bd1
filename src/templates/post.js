@@ -28,7 +28,7 @@ export default class Post extends React.Component {
         }
         return (
             <Layout {...this.props}>
-            <article className="post py-5 py-sm-6 py-md-7">
+            <article className="post py-5 py-sm-6 py-md-89">
             	<div className={classNames('post__hero', 'container', {'container--medium': (image_pos === 'top') || (has_image === false)})}>
             		<div className={classNames('mb-4', {'mb-md-5': image_pos !== 'top', 'mb-md-6': image_pos !== 'top', 'grid': image_pos !== 'top', 'items-center': has_image && (image_pos !== 'top')})}>
             			{has_image && (
