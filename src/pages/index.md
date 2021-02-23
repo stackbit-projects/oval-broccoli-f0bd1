@@ -203,7 +203,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Podcaster Theme
+      value: Candle sight
     - name: 'twitter:description'
       value: The preview of the Podcaster theme
     - name: 'twitter:image'
