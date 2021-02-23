@@ -185,7 +185,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
 seo:
-  title: The RocketCast
+  title: Candle Sight Candle Store
   extra:
     - name: 'og:type'
       value: website
