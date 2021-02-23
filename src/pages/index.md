@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Welcome to DIYJam Podcast
+    title: The Rocketcast
     subtitle: Optional hero section subtitle
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
@@ -11,7 +11,7 @@ sections:
       - label: Subscribe to Podcast
         url: /thank-you
         style: primary
-    image: images/hero.png
+    image: images/5a8cb834-356d-4edf-a949-08b52b9d2b5b-removebg-preview (2).png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
@@ -25,7 +25,7 @@ sections:
     background_image_opacity: 20
     has_border: true
   - type: blog_feed_section
-    title: Latest Episodes
+    title: Episodes and Posts!
     blog_feed_cols: three
     enable_cards: true
     show_recent: true
@@ -45,7 +45,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
   - type: grid_section
-    title: Subscribe
+    title: Join the Rocketers
     grid_items:
       - title: Apple Podcasts
         title_align: center
@@ -109,8 +109,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
   - type: grid_section
-    title: Partners
-    subtitle: 2021 Supporters
+    title: Who We've Worked with
     align: center
     grid_items:
       - image: images/logo-1.svg
@@ -186,8 +185,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
 seo:
-  title: Stackbit Podcaster Theme
-  description: The preview of the Podcaster theme
+  title: Candle Sight Candle Store
   extra:
     - name: 'og:type'
       value: website
@@ -211,5 +209,6 @@ seo:
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
+  description: efefyefiyeifd
 template: advanced
 ---
